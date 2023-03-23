@@ -38,8 +38,8 @@
 
 ## Adapter-based methods
 
-*Kformer: Knowledge Injection in Transformer Feed-Forward Layers
-
+* [Kformer: Knowledge Injection in Transformer Feed-Forward Layers](https://link.springer.com/chapter/10.1007/978-3-031-17120-8_11)
+ 
 *Plug-and-Play Knowledge Injection for Pre-trained Language Models
 
 *Common Sense or World Knowledge? Investigating Adapter-Based Knowledge Injection into Pretrained Transformers
