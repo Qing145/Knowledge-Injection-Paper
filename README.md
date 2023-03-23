@@ -14,27 +14,27 @@
 
 ## Model Editing
 
-*Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
+* [Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs](https://arxiv.org/abs/2111.13654)
 
-*BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief
+* [BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief](https://arxiv.org/abs/2109.14723)
 
-*Editable neural networks
+* [Editable neural networks](https://arxiv.org/abs/2004.00345)
 
-*KINS: Knowledge Injection via Network Structuring
+* [KINS: Knowledge Injection via Network Structuring](https://cris.unibo.it/bitstream/11585/899494/1/paper_25.pdf)
 
-*Modifying Memories in Transformer Models
+* [Modifying Memories in Transformer Models](https://arxiv.org/abs/2012.00363)
 
-*Memory-Based Model Editing at Scale
+* [Memory-Based Model Editing at Scale](https://proceedings.mlr.press/v162/mitchell22a.html?_hsenc=p2ANqtz-8PcBZg33YLCBAVdcZ55PYZXm2xs6OJ8qM1z5cu9NWDbYyx8ey70v--e65rovexQfK34-tjgKdTMqKyU1nNVowzXjY-bA&_hsmi=226067236&utm_source=pocket_mylist)
 
-*Editing Factual Knowledge in Language Models
+* [Editing Factual Knowledge in Language Models](https://arxiv.org/abs/2104.08164)
 
-*Locating and Editing Factual Associations in GPT
+* [Locating and Editing Factual Associations in GPT](https://openreview.net/forum?id=-h6WAS6eE4)
 
-*Transformer Feed-Forward Layers Are Key-Value Memories
+* [Transformer Feed-Forward Layers Are Key-Value Memories](https://arxiv.org/abs/2012.14913)
 
-*Mass-Editing Memory in a Transformer
+* [Mass-Editing Memory in a Transformer](https://arxiv.org/abs/2210.07229)
 
-*Fast Model Editing at Scale
+* [Fast Model Editing at Scale](https://arxiv.org/abs/2110.11309)
 
 ## Adapter-based methods
 
