@@ -40,14 +40,14 @@
 
 * [Kformer: Knowledge Injection in Transformer Feed-Forward Layers](https://link.springer.com/chapter/10.1007/978-3-031-17120-8_11)
  
-*Plug-and-Play Knowledge Injection for Pre-trained Language Models
+* [Plug-and-Play Knowledge Injection for Pre-trained Language Models](https://openreview.net/forum?id=f4RClsuGaHS)
 
-*Common Sense or World Knowledge? Investigating Adapter-Based Knowledge Injection into Pretrained Transformers
+* [Common Sense or World Knowledge? Investigating Adapter-Based Knowledge Injection into Pretrained Transformers](https://arxiv.org/abs/2005.11787)
 
-*The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection
+* [The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection](https://arxiv.org/abs/2210.00907)
 
 ## Others
 
 ## Evaluation
 
-*Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions
+* [Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions](https://arxiv.org/abs/2303.07992)
