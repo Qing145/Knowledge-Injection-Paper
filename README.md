@@ -1,10 +1,10 @@
 # Knowledge-Injection-Paper-List
 
-## Prompt-based methods:
+## Prompt-based methods
 
-*KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction
+*[KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction]
 
-*Ontology-enhanced Prompt-tuning for Few-shot Learning
+*[Ontology-enhanced Prompt-tuning for Few-shot Learning]
 
 *KiPT: Knowledge-injected Prompt Tuning for Event Detection
 
