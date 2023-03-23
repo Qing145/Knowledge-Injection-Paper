@@ -1,53 +1,53 @@
 # Knowledge-Injection-Paper-List
 
-# Soft Prompt:
+## Prompt-based methods:
 
-KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction
+*KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction
 
-Ontology-enhanced Prompt-tuning for Few-shot Learning
+*Ontology-enhanced Prompt-tuning for Few-shot Learning
 
-KiPT: Knowledge-injected Prompt Tuning for Event Detection
+*KiPT: Knowledge-injected Prompt Tuning for Event Detection
 
-Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding
+*Knowledge Injected Prompt Based Fine-tuning for Multi-label Few-shot ICD Coding
 
-# Model Editing
+*Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback
 
-Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
+## Model Editing
 
-BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief
+*Do Language Models Have Beliefs? Methods for Detecting, Updating, and Visualizing Model Beliefs
 
-Editable neural networks
+*BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief
 
-KINS: Knowledge Injection via Network Structuring
+*Editable neural networks
 
-Modifying Memories in Transformer Models
+*KINS: Knowledge Injection via Network Structuring
 
-Memory-Based Model Editing at Scale
+*Modifying Memories in Transformer Models
 
-Editing Factual Knowledge in Language Models
+*Memory-Based Model Editing at Scale
 
-Locating and Editing Factual Associations in GPT
+*Editing Factual Knowledge in Language Models
 
-Transformer Feed-Forward Layers Are Key-Value Memories
+*Locating and Editing Factual Associations in GPT
 
-Mass-Editing Memory in a Transformer
+*Transformer Feed-Forward Layers Are Key-Value Memories
 
-Fast Model Editing at Scale
+*Mass-Editing Memory in a Transformer
 
-# Adapter-based methods
+*Fast Model Editing at Scale
 
-Kformer: Knowledge Injection in Transformer Feed-Forward Layers
+## Adapter-based methods
 
-Plug-and-Play Knowledge Injection for Pre-trained Language Models
+*Kformer: Knowledge Injection in Transformer Feed-Forward Layers
 
-Common Sense or World Knowledge? Investigating Adapter-Based Knowledge Injection into Pretrained Transformers
+*Plug-and-Play Knowledge Injection for Pre-trained Language Models
 
-The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection
+*Common Sense or World Knowledge? Investigating Adapter-Based Knowledge Injection into Pretrained Transformers
 
-# Others
+*The Effectiveness of Masked Language Modeling and Adapters for Factual Knowledge Injection
 
-Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback
+## Others
 
-# Evaluation
+## Evaluation
 
-Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions
+*Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions
