@@ -4,7 +4,7 @@
 
 * [KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction](https://dl.acm.org/doi/abs/10.1145/3485447.3511998?casa_token=1q-XyTkqEM4AAAAA:Wt3G5IX-KkFIfDCMD9GGt94wnO0TgqkSQwE-ClbqhynqD07zSkpJJ6ckGWBbaf_iEU6GkqGJl3ZSjg)
 
-*[Ontology-enhanced Prompt-tuning for Few-shot Learning]
+* [Ontology-enhanced Prompt-tuning for Few-shot Learning](https://dl.acm.org/doi/abs/10.1145/3485447.3511921?casa_token=5nwfixty1ekAAAAA:-7oXtfRQZ1AHtzHw4Mhp7zM88CtWQqRJ7rpu0CLTRUk62CQE5kdK8rzVbc7nREz5PTwHYJqXipLeFw)
 
 *KiPT: Knowledge-injected Prompt Tuning for Event Detection
 
